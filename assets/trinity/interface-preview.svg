@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 980">
+<rect width="1600" height="980" fill="#f4f7fb"/>
+<rect x="0" y="0" width="1600" height="74" fill="#ffffff"/>
+<text x="44" y="46" font-family="Arial" font-size="27" font-weight="700" fill="#111827">TRINITY</text>
+<text x="145" y="46" font-family="Arial" font-size="14" fill="#6b7280">AI-POWERED QUALITY MANAGEMENT SYSTEM</text>
+<rect x="24" y="98" width="260" height="850" rx="18" fill="#ffffff"/>
+<text x="50" y="145" font-family="Arial" font-size="14" font-weight="700" fill="#9ca3af">WORKSPACE</text>
+<g font-family="Arial" font-size="17" fill="#374151">
+<text x="52" y="195">Dashboard</text><text x="52" y="245">Fleet</text><text x="52" y="295">Scheduling</text><text x="52" y="345">Welding</text><text x="52" y="395">Audit &amp; Compliance</text><text x="52" y="445">Analytics</text><text x="52" y="495">Messages</text><text x="52" y="545">Documents</text>
+</g>
+<rect x="330" y="98" width="1228" height="850" rx="18" fill="#ffffff"/>
+<text x="370" y="150" font-family="Arial" font-size="32" font-weight="700" fill="#111827">Operations overview</text>
+<text x="370" y="180" font-family="Arial" font-size="15" fill="#6b7280">Centralized visibility across QA workflows, people, equipment, and documentation.</text>
+<g>
+<rect x="370" y="220" width="260" height="130" rx="14" fill="#eef6ff"/><text x="395" y="255" font-family="Arial" font-size="14" fill="#64748b">OPEN TASKS</text><text x="395" y="310" font-family="Arial" font-size="42" font-weight="700" fill="#111827">24</text>
+<rect x="650" y="220" width="260" height="130" rx="14" fill="#eef6ff"/><text x="675" y="255" font-family="Arial" font-size="14" fill="#64748b">ACTIVE PROJECTS</text><text x="675" y="310" font-family="Arial" font-size="42" font-weight="700" fill="#111827">08</text>
+<rect x="930" y="220" width="260" height="130" rx="14" fill="#eef6ff"/><text x="955" y="255" font-family="Arial" font-size="14" fill="#64748b">DOCUMENT STATUS</text><text x="955" y="310" font-family="Arial" font-size="42" font-weight="700" fill="#111827">96%</text>
+<rect x="1210" y="220" width="300" height="130" rx="14" fill="#eef6ff"/><text x="1235" y="255" font-family="Arial" font-size="14" fill="#64748b">UPCOMING EXPIRATIONS</text><text x="1235" y="310" font-family="Arial" font-size="42" font-weight="700" fill="#111827">05</text>
+</g>
+<rect x="370" y="390" width="720" height="500" rx="14" fill="#f8fafc" stroke="#e5e7eb"/>
+<text x="400" y="430" font-family="Arial" font-size="20" font-weight="700" fill="#111827">Workflow activity</text>
+<g stroke="#cbd5e1" stroke-width="2" fill="none"><path d="M410 820 L510 730 L610 770 L710 620 L810 670 L910 540 L1030 590"/></g>
+<g fill="#60a5fa"><circle cx="410" cy="820" r="7"/><circle cx="510" cy="730" r="7"/><circle cx="610" cy="770" r="7"/><circle cx="710" cy="620" r="7"/><circle cx="810" cy="670" r="7"/><circle cx="910" cy="540" r="7"/><circle cx="1030" cy="590" r="7"/></g>
+<rect x="1120" y="390" width="390" height="500" rx="14" fill="#f8fafc" stroke="#e5e7eb"/>
+<text x="1150" y="430" font-family="Arial" font-size="20" font-weight="700" fill="#111827">Priority actions</text>
+<g font-family="Arial" font-size="15"><rect x="1150" y="465" width="330" height="85" rx="10" fill="#ffffff"/><text x="1170" y="495" fill="#111827">Review inspection record</text><text x="1170" y="522" fill="#64748b">Documentation · Due today</text><rect x="1150" y="570" width="330" height="85" rx="10" fill="#ffffff"/><text x="1170" y="600" fill="#111827">Certificate expiration</text><text x="1170" y="627" fill="#64748b">Welding · 7 days</text><rect x="1150" y="675" width="330" height="85" rx="10" fill="#ffffff"/><text x="1170" y="705" fill="#111827">Schedule QA review</text><text x="1170" y="732" fill="#64748b">Fleet · Tomorrow</text></g>
+</svg>
